@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Dts\V20180330;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Dts\V20180330\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Dts\V20180330\Models as Models;
 
 /**
  * @method Models\ActivateSubscribeResponse ActivateSubscribe(Models\ActivateSubscribeRequest $req) 本接口用于配置数据订阅，只有在未配置状态的订阅实例才能调用此接口。

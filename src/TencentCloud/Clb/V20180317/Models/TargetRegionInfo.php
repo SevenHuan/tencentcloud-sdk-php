@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Clb\V20180317\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 负载均衡实例所绑定的后端服务的信息，包括所属地域、所属网络。

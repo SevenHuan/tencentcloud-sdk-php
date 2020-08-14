@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Mps\V20190612\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 内容审核鉴黄任务结果类型

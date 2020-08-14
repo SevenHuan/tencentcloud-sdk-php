@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Bmvpc\V20180625\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * VPN网关对象。

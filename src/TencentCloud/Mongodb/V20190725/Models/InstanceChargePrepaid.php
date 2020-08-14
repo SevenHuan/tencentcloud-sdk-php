@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Mongodb\V20190725\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 描述了实例的计费模式

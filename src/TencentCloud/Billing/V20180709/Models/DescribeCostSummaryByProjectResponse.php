@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Billing\V20180709\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * DescribeCostSummaryByProject返回参数结构体

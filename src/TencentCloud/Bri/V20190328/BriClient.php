@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Bri\V20190328;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Bri\V20190328\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Bri\V20190328\Models as Models;
 
 /**
  * @method Models\DescribeBRIResponse DescribeBRI(Models\DescribeBRIRequest $req) 输入业务名 (bri_num, bri_dev, bri_ip, bri_apk, bri_url 五种之一)  及其 相应字段, 获取业务风险分数和标签。

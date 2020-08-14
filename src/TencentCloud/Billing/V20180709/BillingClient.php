@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Billing\V20180709;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Billing\V20180709\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Billing\V20180709\Models as Models;
 
 /**
  * @method Models\DescribeAccountBalanceResponse DescribeAccountBalance(Models\DescribeAccountBalanceRequest $req) 获取云账户余额信息。

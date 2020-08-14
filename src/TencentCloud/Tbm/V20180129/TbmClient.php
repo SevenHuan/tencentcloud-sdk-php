@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tbm\V20180129;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tbm\V20180129\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tbm\V20180129\Models as Models;
 
 /**
  * @method Models\DescribeBrandCommentCountResponse DescribeBrandCommentCount(Models\DescribeBrandCommentCountRequest $req) 通过分析用户在评价品牌时用词的正负面情绪评分，返回品牌好评与差评评价条数，按天输出结果。

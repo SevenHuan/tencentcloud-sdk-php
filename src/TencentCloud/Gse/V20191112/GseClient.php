@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Gse\V20191112;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Gse\V20191112\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Gse\V20191112\Models as Models;
 
 /**
  * @method Models\CreateGameServerSessionResponse CreateGameServerSession(Models\CreateGameServerSessionRequest $req) 本接口（CreateGameServerSession）用于创建游戏服务会话

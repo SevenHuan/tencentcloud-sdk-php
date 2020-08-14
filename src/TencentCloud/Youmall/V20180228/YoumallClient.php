@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Youmall\V20180228;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Youmall\V20180228\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Youmall\V20180228\Models as Models;
 
 /**
  * @method Models\CreateAccountResponse CreateAccount(Models\CreateAccountRequest $req) 创建集团门店管理员账号

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Cvm\V20170312\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 描述实例的状态。状态类型详见[实例状态表](/document/api/213/15753#InstanceStatus)

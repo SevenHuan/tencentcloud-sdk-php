@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Captcha\V20190722\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 操作数据查询方法DescribeCaptchaOperData 的返回结果，安全验证码加载耗时type = 1

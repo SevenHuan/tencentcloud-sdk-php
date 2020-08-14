@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tia\V20180226;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tia\V20180226\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tia\V20180226\Models as Models;
 
 /**
  * @method Models\CreateJobResponse CreateJob(Models\CreateJobRequest $req) 创建训练任务

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ticm\V20181127;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ticm\V20181127\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ticm\V20181127\Models as Models;
 
 /**
  * @method Models\DescribeVideoTaskResponse DescribeVideoTask(Models\DescribeVideoTaskRequest $req) 提交完视频审核任务后，可以通过本接口来获取当前处理的进度和结果

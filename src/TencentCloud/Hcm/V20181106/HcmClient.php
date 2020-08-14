@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Hcm\V20181106;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Hcm\V20181106\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Hcm\V20181106\Models as Models;
 
 /**
  * @method Models\EvaluationResponse Evaluation(Models\EvaluationRequest $req) 速算题目批改接口，根据用户上传的图片或图片的URL识别图片中的数学算式，进而给出算式的正确性评估。

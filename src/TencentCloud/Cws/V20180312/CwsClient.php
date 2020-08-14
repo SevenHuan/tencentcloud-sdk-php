@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cws\V20180312;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cws\V20180312\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cws\V20180312\Models as Models;
 
 /**
  * @method Models\CreateMonitorsResponse CreateMonitors(Models\CreateMonitorsRequest $req) 本接口（CreateMonitors）用于新增一个或多个站点的监测任务。

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Organization\V20181225;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Organization\V20181225\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Organization\V20181225\Models as Models;
 
 /**
  * @method Models\AcceptOrganizationInvitationResponse AcceptOrganizationInvitation(Models\AcceptOrganizationInvitationRequest $req) 接受加入企业组织邀请

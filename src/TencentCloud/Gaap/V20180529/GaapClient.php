@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Gaap\V20180529;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Gaap\V20180529\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Gaap\V20180529\Models as Models;
 
 /**
  * @method Models\AddRealServersResponse AddRealServers(Models\AddRealServersRequest $req) 添加源站(服务器)信息，支持IP或域名

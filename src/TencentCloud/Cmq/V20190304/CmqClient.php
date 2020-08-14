@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cmq\V20190304;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cmq\V20190304\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cmq\V20190304\Models as Models;
 
 /**
  * @method Models\ClearQueueResponse ClearQueue(Models\ClearQueueRequest $req) 清除queue中的所有消息

@@ -1,11 +1,11 @@
 <?php
 require_once __DIR__.'/../../../vendor/autoload.php';
 // 导入对应产品模块的client
-use TencentCloud\Cvm\V20170312\CvmClient;
+use Hdgtxcloud\Cvm\V20170312\CvmClient;
 // 导入要请求接口对应的Request类
-use TencentCloud\Cvm\V20170312\Models\DescribeZonesRequest;
-use TencentCloud\Common\Exception\TencentCloudSDKException;
-use TencentCloud\Common\Credential;
+use Hdgtxcloud\Cvm\V20170312\Models\DescribeZonesRequest;
+use Hdgtxcloud\Common\Exception\TencentCloudSDKException;
+use Hdgtxcloud\Common\Credential;
 try {
     // 实例化一个证书对象，入参需要传入腾讯云账户secretId，secretKey
     $cred = new Credential("secretId", "secretKey");

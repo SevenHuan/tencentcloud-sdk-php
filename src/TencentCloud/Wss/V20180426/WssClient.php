@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Wss\V20180426;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Wss\V20180426\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Wss\V20180426\Models as Models;
 
 /**
  * @method Models\DeleteCertResponse DeleteCert(Models\DeleteCertRequest $req) 本接口（DeleteCert）用于删除证书。

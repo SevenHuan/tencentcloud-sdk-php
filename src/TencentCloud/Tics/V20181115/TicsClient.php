@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tics\V20181115;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tics\V20181115\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tics\V20181115\Models as Models;
 
 /**
  * @method Models\DescribeDomainInfoResponse DescribeDomainInfo(Models\DescribeDomainInfoRequest $req) 提供域名相关的基础信息以及与攻击事件（团伙、家族）、恶意文件等相关联信息。

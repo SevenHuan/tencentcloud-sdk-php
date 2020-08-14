@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\As\V20180419\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 描述了实例登录相关配置与信息。

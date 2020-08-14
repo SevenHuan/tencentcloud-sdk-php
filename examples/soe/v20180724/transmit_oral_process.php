@@ -1,17 +1,17 @@
 <?php
 require_once __DIR__.'/../../../vendor/autoload.php';
 // 导入对应产品模块的client
-use TencentCloud\Soe\V20180724\SoeClient;
+use Hdgtxcloud\Soe\V20180724\SoeClient;
 
 // 导入要请求接口对应的Request类
-use TencentCloud\Soe\V20180724\Models\TransmitOralProcessRequest;
-use TencentCloud\Soe\V20180724\Models\TransmitOralProcessResponse;
+use Hdgtxcloud\Soe\V20180724\Models\TransmitOralProcessRequest;
+use Hdgtxcloud\Soe\V20180724\Models\TransmitOralProcessResponse;
 
-use TencentCloud\Common\Exception\TencentCloudSDKException;
-use TencentCloud\Common\Credential;
+use Hdgtxcloud\Common\Exception\TencentCloudSDKException;
+use Hdgtxcloud\Common\Credential;
 // 导入可选配置类
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Profile\HttpProfile;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Profile\HttpProfile;
 
 try {
     // 实例化一个证书对象，入参需要传入腾讯云账户secretId，secretKey

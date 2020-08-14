@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Iot\V20180123;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Iot\V20180123\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Iot\V20180123\Models as Models;
 
 /**
  * @method Models\ActivateRuleResponse ActivateRule(Models\ActivateRuleRequest $req) 启用规则

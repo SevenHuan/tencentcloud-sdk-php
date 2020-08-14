@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\As\V20180419\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 实例标签。通过指定该参数，可以为扩容的实例绑定标签。

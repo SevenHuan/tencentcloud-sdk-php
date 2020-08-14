@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Nlp\V20190408;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Nlp\V20190408\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Nlp\V20190408\Models as Models;
 
 /**
  * @method Models\AutoSummarizationResponse AutoSummarization(Models\AutoSummarizationRequest $req) 利用人工智能算法，自动抽取文本中的关键信息并生成指定长度的文本摘要。可用于新闻标题生成、科技文献摘要生成和商品评论摘要等。

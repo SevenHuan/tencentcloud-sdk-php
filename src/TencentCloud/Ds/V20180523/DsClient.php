@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ds\V20180523;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ds\V20180523\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ds\V20180523\Models as Models;
 
 /**
  * @method Models\CheckVcodeResponse CheckVcode(Models\CheckVcodeRequest $req) 检测验证码接口。此接口用于企业电子合同平台通过给用户发送短信验证码，以短信授权方式签署合同。此接口配合发送验证码接口使用。

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\As\V20180419\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * DescribeAutoScalingActivities返回参数结构体

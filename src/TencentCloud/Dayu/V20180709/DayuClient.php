@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Dayu\V20180709;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Dayu\V20180709\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Dayu\V20180709\Models as Models;
 
 /**
  * @method Models\CreateBasicDDoSAlarmThresholdResponse CreateBasicDDoSAlarmThreshold(Models\CreateBasicDDoSAlarmThresholdRequest $req) 设置基础防护的DDoS告警阈值，只支持基础防护产品

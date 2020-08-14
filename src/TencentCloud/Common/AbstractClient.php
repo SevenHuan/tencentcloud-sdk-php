@@ -20,10 +20,10 @@ namespace Hdgtxcloud\Common;
 
 use \ReflectionClass;
 
-use TencentCloud\Common\Http\HttpConnection;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Profile\HttpProfile;
-use TencentCloud\Common\Exception\TencentCloudSDKException;
+use Hdgtxcloud\Common\Http\HttpConnection;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Profile\HttpProfile;
+use Hdgtxcloud\Common\Exception\TencentCloudSDKException;
 
 
 /**

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cim\V20190318;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cim\V20190318\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cim\V20190318\Models as Models;
 
 /**
  * @method Models\DescribeSdkAppidResponse DescribeSdkAppid(Models\DescribeSdkAppidRequest $req) 获取云通信IM中腾讯云账号对应的SDKAppID

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Captcha\V20190722;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Captcha\V20190722\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Captcha\V20190722\Models as Models;
 
 /**
  * @method Models\DescribeCaptchaAppIdInfoResponse DescribeCaptchaAppIdInfo(Models\DescribeCaptchaAppIdInfoRequest $req) 查询安全验证码应用APPId信息

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Apigateway\V20180808;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Apigateway\V20180808\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Apigateway\V20180808\Models as Models;
 
 /**
  * @method Models\BindEnvironmentResponse BindEnvironment(Models\BindEnvironmentRequest $req) 本接口（BindEnvironment）用于绑定使用计划到服务或API。

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Fmu\V20191213;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Fmu\V20191213\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Fmu\V20191213\Models as Models;
 
 /**
  * @method Models\BeautifyPicResponse BeautifyPic(Models\BeautifyPicRequest $req) 用户上传一张人脸图片，精准定位五官，实现美肤、亮肤、祛痘等美颜功能。

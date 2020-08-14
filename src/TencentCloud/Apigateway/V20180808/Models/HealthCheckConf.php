@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Apigateway\V20180808\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 健康检查配置，包括TsfHealthCheckConf和TargetServicesHealthCheckConf

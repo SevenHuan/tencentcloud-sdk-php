@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Rkp\V20191209;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Rkp\V20191209\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Rkp\V20191209\Models as Models;
 
 /**
  * @method Models\GetOpenIdResponse GetOpenId(Models\GetOpenIdRequest $req) 根据DevicceToken查询OpenID。

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cvm\V20170312;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cvm\V20170312\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cvm\V20170312\Models as Models;
 
 /**
  * @method Models\AllocateHostsResponse AllocateHosts(Models\AllocateHostsRequest $req) 本接口 (AllocateHosts) 用于创建一个或多个指定配置的CDH实例。

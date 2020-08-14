@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tci\V20190318;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tci\V20190318\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tci\V20190318\Models as Models;
 
 /**
  * @method Models\AIAssistantResponse AIAssistant(Models\AIAssistantRequest $req) 提供 AI 助教基础版本功能接口

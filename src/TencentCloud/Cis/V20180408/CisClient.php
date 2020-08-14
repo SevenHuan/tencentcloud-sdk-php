@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cis\V20180408;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cis\V20180408\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cis\V20180408\Models as Models;
 
 /**
  * @method Models\CreateContainerInstanceResponse CreateContainerInstance(Models\CreateContainerInstanceRequest $req) 此接口（CreateContainerInstance）用于创建容器实例

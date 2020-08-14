@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ecc\V20181213;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ecc\V20181213\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ecc\V20181213\Models as Models;
 
 /**
  * @method Models\CorrectMultiImageResponse CorrectMultiImage(Models\CorrectMultiImageRequest $req) https://ecc.tencentcloudapi.com/?Action=CorrectMultiImage

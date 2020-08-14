@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Facefusion\V20181201;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Facefusion\V20181201\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Facefusion\V20181201\Models as Models;
 
 /**
  * @method Models\DescribeMaterialListResponse DescribeMaterialList(Models\DescribeMaterialListRequest $req) 通常通过腾讯云人脸融合的控制台可以查看到素材相关的参数数据，可以满足使用。本接口返回活动的素材数据，包括素材状态等。用于用户通过Api查看素材相关数据，方便使用。

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Bmeip\V20180625;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Bmeip\V20180625\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Bmeip\V20180625\Models as Models;
 
 /**
  * @method Models\BindEipAclsResponse BindEipAcls(Models\BindEipAclsRequest $req) 此接口用于为某个 EIP 关联 ACL。

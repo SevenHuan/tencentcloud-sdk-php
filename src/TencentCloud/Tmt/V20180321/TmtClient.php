@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tmt\V20180321;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tmt\V20180321\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tmt\V20180321\Models as Models;
 
 /**
  * @method Models\ImageTranslateResponse ImageTranslate(Models\ImageTranslateRequest $req) 提供13种语言的图片翻译服务，可自动识别图片中的文本内容并翻译成目标语言，识别后的文本按行翻译，后续会提供可按段落翻译的版本。<br />

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ecdn\V20191012;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ecdn\V20191012\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ecdn\V20191012\Models as Models;
 
 /**
  * @method Models\AddEcdnDomainResponse AddEcdnDomain(Models\AddEcdnDomainRequest $req) 本接口（AddEcdnDomain）用于创建加速域名。

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Nlp\V20190408\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 句法依存分析结果，包括基础词，基础词的序号，当前词父节点的序号，句法依存关系的类型

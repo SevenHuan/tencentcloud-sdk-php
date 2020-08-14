@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Wss\V20180426\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 获取证书列表接口（SSLProjectInfo）出参键为CertificateSet下的元素ProjectIno详情

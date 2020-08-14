@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Bmlb\V20180625;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Bmlb\V20180625\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Bmlb\V20180625\Models as Models;
 
 /**
  * @method Models\BindL4BackendsResponse BindL4Backends(Models\BindL4BackendsRequest $req) 绑定黑石服务器到四层监听器。服务器包括物理服务器、虚拟机以及半托管机器。

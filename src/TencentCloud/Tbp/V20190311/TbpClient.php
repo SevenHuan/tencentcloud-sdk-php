@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tbp\V20190311;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tbp\V20190311\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tbp\V20190311\Models as Models;
 
 /**
  * @method Models\CreateBotResponse CreateBot(Models\CreateBotRequest $req) 创建机器人

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cme\V20191029;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cme\V20191029\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cme\V20191029\Models as Models;
 
 /**
  * @method Models\AddTeamMemberResponse AddTeamMember(Models\AddTeamMemberRequest $req) 向一个团队中团队成员，并且指定成员的角色。

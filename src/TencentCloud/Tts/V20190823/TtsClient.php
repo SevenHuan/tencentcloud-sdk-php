@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tts\V20190823;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tts\V20190823\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tts\V20190823\Models as Models;
 
 /**
  * @method Models\TextToVoiceResponse TextToVoice(Models\TextToVoiceRequest $req) 腾讯云语音合成技术（TTS）可以将任意文本转化为语音，实现让机器和应用张口说话。

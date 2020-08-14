@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Habo\V20181203;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Habo\V20181203\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Habo\V20181203\Models as Models;
 
 /**
  * @method Models\DescribeStatusResponse DescribeStatus(Models\DescribeStatusRequest $req) 查询指定md5样本是否分析完成，并获取分析日志下载地址。

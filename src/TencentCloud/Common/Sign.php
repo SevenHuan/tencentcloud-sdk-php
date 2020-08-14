@@ -18,7 +18,7 @@
 
 namespace Hdgtxcloud\Common;
 
-use TencentCloud\Common\Exception\TencentCloudSDKException;
+use Hdgtxcloud\Common\Exception\TencentCloudSDKException;
 /**
  * 签名类，禁止client引用
  * @package TencentCloud\Common

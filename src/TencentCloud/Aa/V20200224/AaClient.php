@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Aa\V20200224;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Aa\V20200224\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Aa\V20200224\Models as Models;
 
 /**
  * @method Models\ManageMarketingRiskResponse ManageMarketingRisk(Models\ManageMarketingRiskRequest $req) 活动防刷、注册保护、登录保护等营销产品的高级版本

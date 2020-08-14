@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 namespace Hdgtxcloud\Sqlserver\V20180328\Models;
-use TencentCloud\Common\AbstractModel;
+use Hdgtxcloud\Common\AbstractModel;
 
 /**
  * 该数据结构表示具有发布订阅关系的两个数据库，以及其之间发布订阅的状态信息。

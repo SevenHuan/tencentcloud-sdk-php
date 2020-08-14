@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ft\V20200304;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ft\V20200304\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ft\V20200304\Models as Models;
 
 /**
  * @method Models\ChangeAgePicResponse ChangeAgePic(Models\ChangeAgePicRequest $req) 用户上传一张人脸图片，基于人脸编辑与生成算法，输出一张人脸变老或变年轻的图片，支持实现人脸不同年龄的变化。

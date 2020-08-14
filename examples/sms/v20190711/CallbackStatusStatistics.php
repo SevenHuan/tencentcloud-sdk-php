@@ -1,14 +1,14 @@
 <?php
 require_once __DIR__.'/../../../vendor/autoload.php';
 // 导入对应产品模块的client
-use TencentCloud\Sms\V20190711\SmsClient;
+use Hdgtxcloud\Sms\V20190711\SmsClient;
 // 导入要请求接口对应的Request类
-use TencentCloud\Sms\V20190711\Models\CallbackStatusStatisticsRequest;
-use TencentCloud\Common\Exception\TencentCloudSDKException;
-use TencentCloud\Common\Credential;
+use Hdgtxcloud\Sms\V20190711\Models\CallbackStatusStatisticsRequest;
+use Hdgtxcloud\Common\Exception\TencentCloudSDKException;
+use Hdgtxcloud\Common\Credential;
 // 导入可选配置类
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Profile\HttpProfile;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Profile\HttpProfile;
 
 try {
     /* 必要步骤：

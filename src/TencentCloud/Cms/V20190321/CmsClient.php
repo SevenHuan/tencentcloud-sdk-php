@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cms\V20190321;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cms\V20190321\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cms\V20190321\Models as Models;
 
 /**
  * @method Models\CreateFileSampleResponse CreateFileSample(Models\CreateFileSampleRequest $req) 本文档适用于图片内容安全、视频内容安全自定义识别库的管理。

@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tav\V20190118;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tav\V20190118\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tav\V20190118\Models as Models;
 
 /**
  * @method Models\GetLocalEngineResponse GetLocalEngine(Models\GetLocalEngineRequest $req) 获取TAV本地引擎

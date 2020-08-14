@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Iottid\V20190411;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Iottid\V20190411\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Iottid\V20190411\Models as Models;
 
 /**
  * @method Models\AuthTestTidResponse AuthTestTid(Models\AuthTestTidRequest $req) 单向认证测试TID 

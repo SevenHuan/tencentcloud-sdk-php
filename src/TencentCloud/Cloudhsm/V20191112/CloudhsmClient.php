@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cloudhsm\V20191112;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cloudhsm\V20191112\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cloudhsm\V20191112\Models as Models;
 
 /**
  * @method Models\DescribeHSMBySubnetIdResponse DescribeHSMBySubnetId(Models\DescribeHSMBySubnetIdRequest $req) 通过SubnetId获取Hsm资源数

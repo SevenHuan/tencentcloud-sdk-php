@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Aai\V20180522;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Aai\V20180522\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Aai\V20180522\Models as Models;
 
 /**
  * @method Models\ChatResponse Chat(Models\ChatRequest $req) 提供基于文本的基础聊天能力，可以让您的应用快速拥有具备深度语义理解的机器聊天功能。

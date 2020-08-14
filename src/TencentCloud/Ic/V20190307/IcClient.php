@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ic\V20190307;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ic\V20190307\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ic\V20190307\Models as Models;
 
 /**
  * @method Models\DescribeAppResponse DescribeApp(Models\DescribeAppRequest $req) 根据应用id查询物联卡应用详情

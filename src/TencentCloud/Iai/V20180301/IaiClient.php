@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Iai\V20180301;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Iai\V20180301\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Iai\V20180301\Models as Models;
 
 /**
  * @method Models\AnalyzeDenseLandmarksResponse AnalyzeDenseLandmarks(Models\AnalyzeDenseLandmarksRequest $req) 对请求图片进行五官定位（也称人脸关键点定位），获得人脸的精准信息，返回多达888点关键信息，对五官和脸部轮廓进行精确定位。

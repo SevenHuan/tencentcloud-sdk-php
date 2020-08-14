@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ie\V20200304;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ie\V20200304\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ie\V20200304\Models as Models;
 
 /**
  * @method Models\CreateEditingTaskResponse CreateEditingTask(Models\CreateEditingTaskRequest $req) 创建智能编辑任务，可以同时选择视频标签识别、分类识别、智能拆条、智能集锦、智能封面和片头片尾识别中的一项或者多项能力。

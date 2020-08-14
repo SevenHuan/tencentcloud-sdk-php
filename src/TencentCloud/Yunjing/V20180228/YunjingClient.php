@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Yunjing\V20180228;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Yunjing\V20180228\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Yunjing\V20180228\Models as Models;
 
 /**
  * @method Models\AddLoginWhiteListResponse AddLoginWhiteList(Models\AddLoginWhiteListRequest $req) 本接口（AddLoginWhiteList）用于添加白名单规则

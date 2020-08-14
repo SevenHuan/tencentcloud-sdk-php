@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Drm\V20181115;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Drm\V20181115\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Drm\V20181115\Models as Models;
 
 /**
  * @method Models\AddFairPlayPemResponse AddFairPlayPem(Models\AddFairPlayPemRequest $req) 本接口用来设置fairplay方案所需的私钥、私钥密钥、ask等信息。

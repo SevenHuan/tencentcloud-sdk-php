@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Iotvideo\V20191126;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Iotvideo\V20191126\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Iotvideo\V20191126\Models as Models;
 
 /**
  * @method Models\CreateAppUsrResponse CreateAppUsr(Models\CreateAppUsrRequest $req) 本接口（CreateAppUsr）用于接收由厂商云发送过来的注册请求,建立厂商云终端用户与IoT Video终端用户的映射关系。

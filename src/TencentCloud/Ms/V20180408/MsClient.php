@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ms\V20180408;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ms\V20180408\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ms\V20180408\Models as Models;
 
 /**
  * @method Models\CreateBindInstanceResponse CreateBindInstance(Models\CreateBindInstanceRequest $req) 将应用和资源进行绑定

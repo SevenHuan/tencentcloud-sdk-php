@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Bmvpc\V20180625;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Bmvpc\V20180625\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Bmvpc\V20180625\Models as Models;
 
 /**
  * @method Models\AcceptVpcPeerConnectionResponse AcceptVpcPeerConnection(Models\AcceptVpcPeerConnectionRequest $req) 接受黑石对等连接

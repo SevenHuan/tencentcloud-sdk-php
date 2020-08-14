@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cam\V20190116;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cam\V20190116\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cam\V20190116\Models as Models;
 
 /**
  * @method Models\AddUserResponse AddUser(Models\AddUserRequest $req) 添加子用户

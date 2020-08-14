@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Gs\V20191118;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Gs\V20191118\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Gs\V20191118\Models as Models;
 
 /**
  * @method Models\CreateSessionResponse CreateSession(Models\CreateSessionRequest $req) 创建会话

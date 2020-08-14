@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tkgdq\V20190411;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tkgdq\V20190411\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tkgdq\V20190411\Models as Models;
 
 /**
  * @method Models\DescribeEntityResponse DescribeEntity(Models\DescribeEntityRequest $req) 输入实体名称，返回实体相关的信息如实体别名、实体英文名、实体详细信息、相关实体等

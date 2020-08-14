@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Lp\V20200224;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Lp\V20200224\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Lp\V20200224\Models as Models;
 
 /**
  * @method Models\QueryLoginProtectionResponse QueryLoginProtection(Models\QueryLoginProtectionRequest $req) 登录保护服务（LoginProtection，LP）针对网站和 APP 的用户登录场景，实时检测是否存在盗号、撞库等恶意登录行为，帮助开发者发现异常登录，降低恶意用户登录给业务带来的风险。

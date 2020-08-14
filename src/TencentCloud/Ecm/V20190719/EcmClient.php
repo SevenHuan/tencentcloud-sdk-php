@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ecm\V20190719;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ecm\V20190719\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ecm\V20190719\Models as Models;
 
 /**
  * @method Models\AllocateAddressesResponse AllocateAddresses(Models\AllocateAddressesRequest $req) 申请一个或多个弹性公网IP（简称 EIP）

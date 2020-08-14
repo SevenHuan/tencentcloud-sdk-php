@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Cloudaudit\V20190319;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Cloudaudit\V20190319\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Cloudaudit\V20190319\Models as Models;
 
 /**
  * @method Models\CreateAuditResponse CreateAudit(Models\CreateAuditRequest $req) 参数要求：

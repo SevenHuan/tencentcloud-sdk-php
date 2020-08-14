@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Tcaplusdb\V20190823;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Tcaplusdb\V20190823\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Tcaplusdb\V20190823\Models as Models;
 
 /**
  * @method Models\ClearTablesResponse ClearTables(Models\ClearTablesRequest $req) 根据给定的表信息，清除表数据。

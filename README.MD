@@ -37,9 +37,9 @@
 <?php
 require_once '/path/to/vendor/autoload.php';
 
-use TencentCloud\Cvm\V20170312\Models\DescribeInstancesRequest;
-use TencentCloud\Common\Exception\TencentCloudSDKException;
-use TencentCloud\Common\Credential;
+use Hdgtxcloud\Cvm\V20170312\Models\DescribeInstancesRequest;
+use Hdgtxcloud\Common\Exception\TencentCloudSDKException;
+use Hdgtxcloud\Common\Credential;
 
 try {
     $cred = new Credential("secretId", "secretKey");
@@ -59,15 +59,15 @@ catch(TencentCloudSDKException $e) {
 <?php
 require_once '/path/to/vendor/autoload.php';
 // 导入对应产品模块的client
-use TencentCloud\Cvm\V20170312\CvmClient;
+use Hdgtxcloud\Cvm\V20170312\CvmClient;
 // 导入要请求接口对应的Request类
-use TencentCloud\Cvm\V20170312\Models\DescribeInstancesRequest;
-use TencentCloud\Cvm\V20170312\Models\Filter;
-use TencentCloud\Common\Exception\TencentCloudSDKException;
-use TencentCloud\Common\Credential;
+use Hdgtxcloud\Cvm\V20170312\Models\DescribeInstancesRequest;
+use Hdgtxcloud\Cvm\V20170312\Models\Filter;
+use Hdgtxcloud\Common\Exception\TencentCloudSDKException;
+use Hdgtxcloud\Common\Credential;
 // 导入可选配置类
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Profile\HttpProfile;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Profile\HttpProfile;
 
 try {
     // 实例化一个证书对象，入参需要传入腾讯云账户secretId，secretKey

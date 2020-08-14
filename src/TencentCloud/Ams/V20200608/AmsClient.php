@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Ams\V20200608;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Ams\V20200608\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Ams\V20200608\Models as Models;
 
 /**
  * @method Models\CreateAudioModerationTaskResponse CreateAudioModerationTask(Models\CreateAudioModerationTaskRequest $req) 本接口（Audio Moderation）用于提交音频内容（包括音频文件或流地址）进行智能审核任务，使用前请您登陆控制台开通音频内容安全服务。

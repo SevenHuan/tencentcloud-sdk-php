@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Solar\V20181011;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Solar\V20181011\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Solar\V20181011\Models as Models;
 
 /**
  * @method Models\CheckStaffChUserResponse CheckStaffChUser(Models\CheckStaffChUserRequest $req) 员工渠道更改员工状态

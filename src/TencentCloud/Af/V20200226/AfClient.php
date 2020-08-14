@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Af\V20200226;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Af\V20200226\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Af\V20200226\Models as Models;
 
 /**
  * @method Models\QueryAntiFraudResponse QueryAntiFraud(Models\QueryAntiFraudRequest $req) 天御反欺诈服务，主要应用于银行、证券、保险、P2P等金融行业客户，通过腾讯的大数据风控能力，

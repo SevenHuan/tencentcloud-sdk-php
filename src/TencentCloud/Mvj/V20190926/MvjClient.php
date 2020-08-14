@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Mvj\V20190926;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Mvj\V20190926\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Mvj\V20190926\Models as Models;
 
 /**
  * @method Models\MarketingValueJudgementResponse MarketingValueJudgement(Models\MarketingValueJudgementRequest $req) 欢迎使用营销价值判断（Marketing Value Judgement，简称 MVJ）。

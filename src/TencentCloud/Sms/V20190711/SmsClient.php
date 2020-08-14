@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Sms\V20190711;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Sms\V20190711\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Sms\V20190711\Models as Models;
 
 /**
  * @method Models\AddSmsSignResponse AddSmsSign(Models\AddSmsSignRequest $req) 1. 添加短信签名，申请之前请先认真参阅 [腾讯云短信签名审核标准](https://cloud.tencent.com/document/product/382/39022)。

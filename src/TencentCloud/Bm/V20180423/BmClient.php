@@ -17,10 +17,10 @@
 
 namespace Hdgtxcloud\Bm\V20180423;
 
-use TencentCloud\Common\AbstractClient;
-use TencentCloud\Common\Profile\ClientProfile;
-use TencentCloud\Common\Credential;
-use TencentCloud\Bm\V20180423\Models as Models;
+use Hdgtxcloud\Common\AbstractClient;
+use Hdgtxcloud\Common\Profile\ClientProfile;
+use Hdgtxcloud\Common\Credential;
+use Hdgtxcloud\Bm\V20180423\Models as Models;
 
 /**
  * @method Models\AttachCamRoleResponse AttachCamRole(Models\AttachCamRoleRequest $req) 服务器绑定CAM角色，该角色授权访问黑石物理服务器服务，为黑石物理服务器提供了访问资源的权限，如请求服务器的临时证书
