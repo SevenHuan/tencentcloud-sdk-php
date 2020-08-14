@@ -1,6 +1,6 @@
 {
-    "name": "tencentcloud/tencentcloud-sdk-php",
-    "description": "TencentCloudApi php sdk",
+    "name": "forktxcloud/tencentcloud-sdk-php",
+    "description": "Fork TencentCloudApi php sdk Resolve version conflicts ",
     "type": "library",
     "homepage": "https://github.com/TencentCloud/tencentcloud-sdk-php",
     "license": "Apache-2.0",
@@ -22,7 +22,7 @@
             "src/QcloudApi/QcloudApi.php"
         ],
         "psr-4": {
-            "TencentCloud\\": "./src/TencentCloud"
+            "ForkTxCloud\\": "./src/TencentCloud"
         }
     }
 }
