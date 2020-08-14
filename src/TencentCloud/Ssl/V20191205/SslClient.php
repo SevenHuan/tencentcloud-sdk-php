@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Ssl\V20191205;
+namespace Hdgtxcloud\Ssl\V20191205;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

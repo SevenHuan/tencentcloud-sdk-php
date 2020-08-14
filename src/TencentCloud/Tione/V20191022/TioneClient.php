@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Tione\V20191022;
+namespace Hdgtxcloud\Tione\V20191022;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

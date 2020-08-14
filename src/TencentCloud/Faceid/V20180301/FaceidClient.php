@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Faceid\V20180301;
+namespace Hdgtxcloud\Faceid\V20180301;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

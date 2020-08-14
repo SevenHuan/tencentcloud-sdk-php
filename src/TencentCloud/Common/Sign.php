@@ -16,7 +16,7 @@
  * under the License.
  */
 
-namespace TencentCloud\Common;
+namespace Hdgtxcloud\Common;
 
 use TencentCloud\Common\Exception\TencentCloudSDKException;
 /**

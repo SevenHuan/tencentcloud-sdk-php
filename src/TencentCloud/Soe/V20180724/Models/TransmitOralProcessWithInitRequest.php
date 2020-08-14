@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace TencentCloud\Soe\V20180724\Models;
+namespace Hdgtxcloud\Soe\V20180724\Models;
 use TencentCloud\Common\AbstractModel;
 
 /**

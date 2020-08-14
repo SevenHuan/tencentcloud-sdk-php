@@ -16,7 +16,7 @@
  * under the License.
  */
 
-namespace TencentCloud\Common\Exception;
+namespace Hdgtxcloud\Common\Exception;
 
 /**
  * sdk异常类

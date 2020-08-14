@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace TencentCloud\Ckafka\V20190819\Models;
+namespace Hdgtxcloud\Ckafka\V20190819\Models;
 use TencentCloud\Common\AbstractModel;
 
 /**

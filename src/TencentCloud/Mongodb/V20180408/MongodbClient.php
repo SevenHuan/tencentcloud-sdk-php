@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Mongodb\V20180408;
+namespace Hdgtxcloud\Mongodb\V20180408;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

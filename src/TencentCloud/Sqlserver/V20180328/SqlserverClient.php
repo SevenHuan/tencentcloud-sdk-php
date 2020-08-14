@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Sqlserver\V20180328;
+namespace Hdgtxcloud\Sqlserver\V20180328;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

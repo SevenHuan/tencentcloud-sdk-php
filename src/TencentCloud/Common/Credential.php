@@ -16,7 +16,7 @@
  * under the License.
  */
 
-namespace TencentCloud\Common;
+namespace Hdgtxcloud\Common;
 
 /**
  * 证书类，保存认证相关参数

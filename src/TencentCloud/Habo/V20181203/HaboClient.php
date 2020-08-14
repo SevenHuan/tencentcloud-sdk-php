@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Habo\V20181203;
+namespace Hdgtxcloud\Habo\V20181203;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

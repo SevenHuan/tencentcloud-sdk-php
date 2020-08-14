@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Sms\V20190711;
+namespace Hdgtxcloud\Sms\V20190711;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

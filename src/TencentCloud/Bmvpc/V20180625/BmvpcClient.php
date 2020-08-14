@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Bmvpc\V20180625;
+namespace Hdgtxcloud\Bmvpc\V20180625;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Gaap\V20180529;
+namespace Hdgtxcloud\Gaap\V20180529;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

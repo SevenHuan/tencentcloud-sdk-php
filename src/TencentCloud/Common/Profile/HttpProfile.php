@@ -16,7 +16,7 @@
  * under the License.
  */
 
-namespace TencentCloud\Common\Profile;
+namespace Hdgtxcloud\Common\Profile;
 
 /**
  * http相关参数类

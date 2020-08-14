@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Nlp\V20190408;
+namespace Hdgtxcloud\Nlp\V20190408;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

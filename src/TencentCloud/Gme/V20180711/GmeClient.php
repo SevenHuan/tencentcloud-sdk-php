@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Gme\V20180711;
+namespace Hdgtxcloud\Gme\V20180711;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

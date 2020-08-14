@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Postgres\V20170312;
+namespace Hdgtxcloud\Postgres\V20170312;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

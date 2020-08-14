@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Iotvideo\V20191126;
+namespace Hdgtxcloud\Iotvideo\V20191126;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

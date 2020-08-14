@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace TencentCloud\Redis\V20180412\Models;
+namespace Hdgtxcloud\Redis\V20180412\Models;
 use TencentCloud\Common\AbstractModel;
 
 /**

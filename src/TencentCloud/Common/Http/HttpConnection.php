@@ -16,7 +16,7 @@
  * under the License.
  */
 
-namespace TencentCloud\Common\Http;
+namespace Hdgtxcloud\Common\Http;
 
 use GuzzleHttp\Client;
 

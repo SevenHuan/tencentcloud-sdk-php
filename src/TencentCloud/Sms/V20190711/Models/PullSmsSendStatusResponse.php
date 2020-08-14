@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace TencentCloud\Sms\V20190711\Models;
+namespace Hdgtxcloud\Sms\V20190711\Models;
 use TencentCloud\Common\AbstractModel;
 
 /**

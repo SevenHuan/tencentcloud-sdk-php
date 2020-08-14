@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace TencentCloud\Facefusion\V20181201\Models;
+namespace Hdgtxcloud\Facefusion\V20181201\Models;
 use TencentCloud\Common\AbstractModel;
 
 /**

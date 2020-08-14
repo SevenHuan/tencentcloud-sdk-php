@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Dbbrain\V20191016;
+namespace Hdgtxcloud\Dbbrain\V20191016;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

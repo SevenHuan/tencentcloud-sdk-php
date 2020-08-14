@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Memcached\V20190318;
+namespace Hdgtxcloud\Memcached\V20190318;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

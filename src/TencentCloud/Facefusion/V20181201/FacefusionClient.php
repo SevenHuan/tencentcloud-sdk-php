@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Facefusion\V20181201;
+namespace Hdgtxcloud\Facefusion\V20181201;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

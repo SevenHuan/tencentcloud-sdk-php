@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace TencentCloud\Bizlive\V20190313\Models;
+namespace Hdgtxcloud\Bizlive\V20190313\Models;
 use TencentCloud\Common\AbstractModel;
 
 /**

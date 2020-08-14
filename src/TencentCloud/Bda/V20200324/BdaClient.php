@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Bda\V20200324;
+namespace Hdgtxcloud\Bda\V20200324;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

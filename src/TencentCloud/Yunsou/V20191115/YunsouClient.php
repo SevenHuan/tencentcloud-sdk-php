@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Yunsou\V20191115;
+namespace Hdgtxcloud\Yunsou\V20191115;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

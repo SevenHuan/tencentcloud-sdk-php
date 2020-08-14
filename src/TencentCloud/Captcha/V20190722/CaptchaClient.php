@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Captcha\V20190722;
+namespace Hdgtxcloud\Captcha\V20190722;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

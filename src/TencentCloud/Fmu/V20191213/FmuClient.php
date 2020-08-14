@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Fmu\V20191213;
+namespace Hdgtxcloud\Fmu\V20191213;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-namespace TencentCloud\Redis\V20180412;
+namespace Hdgtxcloud\Redis\V20180412;
 
 use TencentCloud\Common\AbstractClient;
 use TencentCloud\Common\Profile\ClientProfile;

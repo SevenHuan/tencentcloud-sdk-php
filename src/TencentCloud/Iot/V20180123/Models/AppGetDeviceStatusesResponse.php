@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-namespace TencentCloud\Iot\V20180123\Models;
+namespace Hdgtxcloud\Iot\V20180123\Models;
 use TencentCloud\Common\AbstractModel;
 
 /**
