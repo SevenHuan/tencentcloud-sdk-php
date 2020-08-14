@@ -1,5 +1,5 @@
 {
-    "name": "xiaoxin/tencentcloud-sdk-php",
+    "name": "hdgtxcloud/tencentcloud-sdk-php",
     "description": "Fork TencentCloudApi php sdk Resolve version conflicts ",
     "type": "library",
     "homepage": "https://github.com/TencentCloud/tencentcloud-sdk-php",
